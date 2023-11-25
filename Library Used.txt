@@ -1,0 +1,6 @@
+1.cv2 - OpenCv
+2.numpy
+3.pandas
+4.matplotlib
+5.keras
+6.tensorflow

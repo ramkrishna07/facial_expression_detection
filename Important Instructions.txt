@@ -1,0 +1,19 @@
+If Running in Google Colab , Try To Follow Steps for Not Getting Any Error
+
+1. Upload harcasscade.xml in Google Colab before running
+
+2. Upload model.h5 file in Google Colab before running 
+
+3. Upload Images in colab before running
+		
+		OR
+
+Put All Files in One Single Folder , And Then Upload in Google Colab.
+
+
+
+If Running in Local Machine , Try To Follow Steps for Not Getting Any Error
+
+1. Use Python 3.7.9
+
+2. Use Debug & Run to Execute the Code ( Not Run The Code ).
